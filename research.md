@@ -7,7 +7,7 @@ permalink: /research/
 # {% youtube "https://www.youtube.com/embed/0ilTmJcyrL4" %}
 
 
-[Full list of publications](/home/publi/)
+[Full list of  publications](/home/publi/)
 
 <table>
   <tr> <th align="center"> <font size="5">
@@ -21,7 +21,7 @@ permalink: /research/
    </td> </tr>
 </table>
 
- 
+  
 <table>
   <tr> <th align="center"> <font size="5">Schrodinger equation</font> 
   </th> </tr>

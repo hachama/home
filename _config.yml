@@ -31,6 +31,7 @@ url: "https://github.com/hachama" # the base hostname & protocol for your site, 
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-youtube
 
 header_pages:
   - teaching.md

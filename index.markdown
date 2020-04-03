@@ -11,16 +11,22 @@ layout: home
 Professor, 
 University of Khemis Miliana, Algeria 
 
-Laboratory of Pure and Applied Mathematics
+[Laboratory of Pure and Applied Mathematics](http://virtuelcampus.univ-msila.dz/lmpa2/)
  
-Email : hachamam@gmail.com
+Email : <hachamam@gmail.com>
 
+#### Professional pages
+* [Scopus](https://www.scopus.com/authid/detail.uri?authorId=14048333600)
+* [Google Scholar](http://scholar.google.fr/citations?sortby=pubdate&hl=fr&user=NApH4ggAAAAJ&view_op=list_works)
+* [Mendely](https://www.mendeley.com/profiles/mohammed-hachama/publications/) 
+  
 
-## Research interests (Page on Google Scholar)
+## Research interests
 * Computer vision: 3D reconstruction.
 * Image processing: image registration, medical imaging
 * Applied mathematics in science and engineering
 
+ 
 ## Educational Profile
 * Habilitation Universitaire, University of Blida, Algeria, ​2011. 
 * Ph.D. Applied Mathematics, University of Paris Descartes, France, 2008. 

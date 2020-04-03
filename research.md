@@ -11,7 +11,7 @@ permalink: /research/
   Intrinsic images</font> 
   </th> </tr>
   <tr> <td  align="center"> 
-  <iframe width="420" height="315" src="http://www.youtube.com/embed/0ilTmJcyrL4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0ilTmJcyrL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </td> </tr>
    <tr> <td> 
    M. Hachama, B. Ghanem and P. Wonka, "Intrinsic Scene Decomposition from RGB-D images", In IEEE International Conference on Computer Vision (ICCV), 2015.
@@ -61,13 +61,14 @@ A. Diaf and M. Hachama, "Feynman integral treatment of the Rosen-Morse Potential
     <th align="center"> <font size="5">Classifying registration</font> </th> 
   </tr>
   <tr>
-   <td  align="center"><iframe width="420" height="315" src="http://www.youtube.com/embed/6NPEGj-Hc_8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></td>
-    </tr>
+   <td  align="center">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/6NPEGj-Hc_8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </td> </tr>
     <tr>
     <td> M. Hachama, A. Desolneux, C. Cuénod, and F. Richard. "A classifying registration technique for the estimation of enhancement curves of DCE-CT scan sequences". Medical Image Analysis,14(2) :185-194, 2010.</td>
      </tr>
     <tr>
-    <td align="center">A <a href="[url](https://www.sattse.com/innovation/dynamic-imaging/)">Software</a> has been released. 
+    <td align="center">A <a href="https://www.sattse.com/innovation/dynamic-imaging">Software</a> has been released. 
     </td>
   </tr>
       <tr>

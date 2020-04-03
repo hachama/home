@@ -4,9 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-# {% youtube "https://www.youtube.com/embed/0ilTmJcyrL4" %}
-
-
 [Full list of  publications](/home/publi/)
 
 <table>

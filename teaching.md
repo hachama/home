@@ -5,8 +5,8 @@ permalink: /teach/
 ---
 
 ### Spring 2020
-* [Computer vision](https://hachama.github.io/vision/)
-* [Convex optimization](https://hachama.github.io/convopti/)
+* [Computer vision](https://hachama.github.io/vision)
+* [Convex optimization](https://hachama.github.io/convoptim)
 
 ### Fall 2019
 * [Mathematical models for image processing](https://hachama.github.io/traitementimage/)

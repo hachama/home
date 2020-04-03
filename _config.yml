@@ -39,6 +39,8 @@ header_pages:
   - about.md
 
 
+# Server Config options
+livereload: true     # You no longer need to include --livereload
 
 # Exclude from processing.
 # The following items will not be processed, by default.

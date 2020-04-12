@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-<!-- ## Mohammed Hachama -->
+## Mohammed Hachama
 
 Professor, 
 University of Khemis Miliana, Algeria 

@@ -10,6 +10,7 @@ permalink: /publi/
  
 |2020| 
 |----|
+| Hadjer Bakhti, Ahmed Diaf, and Mohammed Hachama, "Computing thermodynamic properties of the O2 and H2 molecules with multi-parameter exponential-type potential", Computational and Theoretical Chemistry, 2020, To appear. 
 | Amel Benali, Mohammed Hachama, Aouda Bounif, Ammar Nechnech, and Mourad Karray, "A TLBO-Optimized Artificial Neural Network for Modeling Axial Capacity of Pile Foundations", Engineering with Computers, 2020, To appear. 
 | Benniche, Omar and Hachama, Mohammed, "Near Viability of a Set-Valued Map Graph with Respect to a Quasi-Autonomous    Nonlinear Inclusion", Journal of Dynamical and Control Systems", 2020, To appear.
 

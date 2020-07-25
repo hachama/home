@@ -2,5 +2,6 @@
  bundle exec jekyll serve --livereload
 
 git add .
-git commit -m "v1"
+git commit -m "minor update"
 git push origin master
+

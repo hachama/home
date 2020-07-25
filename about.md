@@ -13,8 +13,8 @@ permalink: /publi/
 | Hadjer Bakhti, Ahmed Diaf, and Mohammed Hachama, ["Computing thermodynamic properties of the O2 and H2 molecules with multi-parameter exponential-type potential"](https://doi.org/10.1016/j.comptc.2020.112879), Computational and Theoretical Chemistry 1185C (2020) 112879. 
 | Amel Benali, Mohammed Hachama, Aouda Bounif, Ammar Nechnech, and Mourad Karray, ["A TLBO-Optimized Artificial Neural Network for Modeling Axial Capacity of Pile Foundations"](https://doi.org/10.1007/s00366-019-00847-5), Engineering with Computers, 2020. 
 | Benniche, Omar and Hachama, Mohammed, ["Near Viability of a Set-Valued Map Graph with Respect to a Quasi-Autonomous Nonlinear Inclusion"](https://doi.org/10.1007/s10883-019-09455-4), Journal of Dynamical and Control Systems, 26, pages 455–468 (2020).
-| Sabira Benalia and Mohammed Hachama, Nonlocal approches for image denoising, ICRAMCS 2020 Proceedings ISSN: 2605-7700.
-| Benniche Omar and Hachama Mohammed, Approximate null-controllability for systems governed by fully nonlinear differential inclusion, ICRAMCS 2020 Proceedings ISSN: 2605-7700.
+| Sabira Benalia and Mohammed Hachama, [Nonlocal approches for image denoising](https://icramcs2020.sciencesconf.org/data/Proceedings.pdf#page=63), ICRAMCS 2020 Proceedings ISSN: 2605-7700.
+| Benniche Omar and Hachama Mohammed, [Approximate null-controllability for systems governed by fully nonlinear differential inclusion](https://icramcs2020.sciencesconf.org/data/Proceedings.pdf#page=44), ICRAMCS 2020 Proceedings ISSN: 2605-7700.
 
 
 |2019|

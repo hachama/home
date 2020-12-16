@@ -7,8 +7,9 @@ layout: home
 
 <!-- # Mohammed Hachama -->
 
-Professor, 
-University of Khemis Miliana, Algeria 
+Professor, \\
+Department of Mathematics,\\
+University of Saad Dahleb, Blida 1, Algeria 
 
 [Laboratory of Pure and Applied Mathematics](http://virtuelcampus.univ-msila.dz/lmpa2/)
  
@@ -21,9 +22,10 @@ Email : <hachamam@gmail.com>
   
 
 ## Research interests
-* Computer vision: 3D reconstruction.
-* Image processing: image registration, medical imaging
 * Applied mathematics in science and engineering
+* Computer vision, 3D reconstruction.
+* Image processing: image registration, medical imaging
+
 
  
 ## Educational Profile
@@ -34,7 +36,8 @@ Email : <hachamam@gmail.com>
 * B.S in Mathematics, Major: "Functional Analysis", University of Blida, Algeria, 2000.  
 
 ## Professional profile
-* July 2018 - present: Full professor, University of Khemis Miliana, Algeria 
+* November 2020 - present: Full professor, University of Khemis Miliana, Algeria 
+* July 2018 - October 2020: Full professor, University of Khemis Miliana, Algeria 
 * June 2011 - June 2018: Associate Professor, University of Khemis Miliana, Algeria 
 * 2014 - 2016: Researcher, Visual Computing Center, KAUST, Saudi Arabia
 * 2008 - 2011: Assistant professor, University of Khemis Miliana, Algeria 

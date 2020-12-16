@@ -8,8 +8,8 @@ layout: home
 <!-- # Mohammed Hachama -->
 
 Professor, \\
-Department of Mathematics,\\
-University of Saad Dahleb, Blida 1, Algeria 
+[Department of Mathematics](https://www.univ-blida.dz/index.php/fr/departements/mathematiques),\\
+[University of Saad Dahleb](https://www.univ-blida.dz/index.php/en/), Blida 1, Algeria 
 
 [Laboratory of Pure and Applied Mathematics](http://virtuelcampus.univ-msila.dz/lmpa2/)
  
@@ -22,9 +22,9 @@ Email : <hachamam@gmail.com>
   
 
 ## Research interests
-* Applied mathematics in science and engineering
+* Applied mathematics in science and engineering.
 * Computer vision, 3D reconstruction.
-* Image processing: image registration, medical imaging
+* Image processing: image registration, medical imaging.
 
 
  

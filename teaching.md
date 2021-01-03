@@ -5,7 +5,7 @@ permalink: /teach/
 ---
 
 ### Fall 2020
-* [Introduction to image processing](https://hachama.github.io/introimage/)
+* [Introduction to image processing](https://hachama.github.io/introimg/)
 * [Mathematical models for image processing](https://hachama.github.io/traitementimage/)
 
 ### Spring 2021

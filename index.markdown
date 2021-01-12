@@ -19,14 +19,12 @@ Email : <hachamam@gmail.com>
 * [Scopus](https://www.scopus.com/authid/detail.uri?authorId=14048333600)
 * [Google Scholar](http://scholar.google.fr/citations?sortby=pubdate&hl=fr&user=NApH4ggAAAAJ&view_op=list_works)
 * [Mendely](https://www.mendeley.com/profiles/mohammed-hachama/publications/) 
-  
+* [Orcid] (https://orcid.org/0000-0002-2441-5003)
 
 ## Research interests
 * Applied mathematics in science and engineering.
 * Computer vision, 3D reconstruction.
 * Image processing: image registration, medical imaging.
-
-
  
 ## Educational Profile
 * Habilitation Universitaire, University of Blida, Algeria, ​2011. 

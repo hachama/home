@@ -9,7 +9,7 @@ layout: home
 
 Professor, \\
 [Department of Mathematics](https://www.univ-blida.dz/index.php/fr/departements/mathematiques),\\
-[University of Saad Dahleb](https://www.univ-blida.dz/index.php/en/), Blida 1, Algeria 
+[Saad Dahlab University - Blida 1](https://www.univ-blida.dz/index.php/en/), Blida 1, Algeria 
 
 [Laboratory of Pure and Applied Mathematics](http://virtuelcampus.univ-msila.dz/lmpa2/)
  
@@ -36,7 +36,7 @@ Email : <hachamam@gmail.com>
 * B.S in Mathematics, Major: "Functional Analysis", University of Blida, Algeria, 2000.  
 
 ## Professional profile
-* November 2020 - present: Full professor, University of Khemis Miliana, Algeria 
+* November 2020 - present: Full professor, Saad Dahlab University - Blida 1, Algeria 
 * July 2018 - October 2020: Full professor, University of Khemis Miliana, Algeria 
 * June 2011 - June 2018: Associate Professor, University of Khemis Miliana, Algeria 
 * 2014 - 2016: Researcher, Visual Computing Center, KAUST, Saudi Arabia

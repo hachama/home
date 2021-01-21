@@ -10,9 +10,13 @@ permalink: /publi/
  
 |2020| 
 |----|
+| Amel Benali, Mohammed Hachama, Aouda Bounif, Ammar Nechnech, and Mourad Karray, ["A TLBO-Optimized Artificial Neural Network for Modeling Axial Capacity of Pile Foundations"](https://doi.org/10.1007/s00366-019-00847-5), Engineering with Computers 37, pages675–684(2021). 
+ 
+|2020| 
+|----|
 | Hadjer Bakhti, Ahmed Diaf, and Mohammed Hachama, ["Computing thermodynamic properties of the O2 and H2 molecules with multi-parameter exponential-type potential"](https://doi.org/10.1016/j.comptc.2020.112879), Computational and Theoretical Chemistry 1185C (2020) 112879. 
-| Amel Benali, Mohammed Hachama, Aouda Bounif, Ammar Nechnech, and Mourad Karray, ["A TLBO-Optimized Artificial Neural Network for Modeling Axial Capacity of Pile Foundations"](https://doi.org/10.1007/s00366-019-00847-5), Engineering with Computers, 2020. 
 | Benniche, Omar and Hachama, Mohammed, ["Near Viability of a Set-Valued Map Graph with Respect to a Quasi-Autonomous Nonlinear Inclusion"](https://doi.org/10.1007/s10883-019-09455-4), Journal of Dynamical and Control Systems, 26, pages 455–468 (2020).
+
 | Sabira Benalia and Mohammed Hachama, [Nonlocal approches for image denoising](https://icramcs2020.sciencesconf.org/data/Proceedings.pdf#page=63), ICRAMCS 2020 Proceedings ISSN: 2605-7700.
 | Benniche Omar and Hachama Mohammed, [Approximate null-controllability for systems governed by fully nonlinear differential inclusion](https://icramcs2020.sciencesconf.org/data/Proceedings.pdf#page=44), ICRAMCS 2020 Proceedings ISSN: 2605-7700.
 
@@ -20,6 +24,7 @@ permalink: /publi/
 |2019|
 |----|
 | H. Bakhti, A. Diaf, M. Hachama, ["Analytical solution of the Feynman Kernel for general exponential-type potentials"](https://doi.org/10.1088/1402-4896/ab05f3), Physica scripta, Volume 94, Number 5, 2019.
+
 | M. Hachama, "PDE for image denoising", la 9ème édition du colloque ​Tendances dans les Applications Mathématiques en Tunisie             Algérie Maroc, Tlemcen 23-27 Février 2019.
 | M. Hachama, "Une revue des équations aux dérivées partielles en restauration", Journée de Mathématiques Appliquées, JMA’2019, April 28, 2019, Mila-Algeria
 
@@ -27,6 +32,7 @@ permalink: /publi/
 |2018|
 |----|
 | H. Boukabcha, M. Hachama, A. Diaf, "[Ro-vibrational energies of the shifted Deng-Fan Oscillator potential with Feynman path integral formalism](https://doi.org/10.1016/j.amc.2017.10.044)", Applied Mathematics and Computation 321 (2018) 121–129.
+
 | M. Hachama, "A Convex Optimization Approach To Shading Estimation From RGB-D Images", CONGRÈS DES MATHÉMATICIENS ALGÉRIENS CMA’2018, BOUMERDES 12 - 13 MAI 2018.
 | M. Hachama, "PDE for image restoration", Workshops on Pure and Applied Mathematics December 17-18,2018. 
 | S. Ayadi and M. Hachama, "Study of a Non-linear Poisson PDE used in image processing", Workshops on Pure and Applied Mathematics December 17-18,2018. 
@@ -35,6 +41,7 @@ permalink: /publi/
 |2017|
 |----|
 | A. Amrouche, A. Diaf and M. Hachama, ["Path integral treatment of the  deformed Schioberg-type potential for some diatomic molecules"](https://doi.org/10.1139/cjp-2016-0397), Canadian Journal of Physics 95 (1), 25-30, 2017.
+
 | M. Hachama, "Mathématiques en images : méthodes et applications", Mathématiques en Images (MI'2017).
 | O. Benniche, M. Hachama, "An optimal control approach to image restoration with a p-Laplacian regularization",  Mathématiques en Images (MI'2017).
 

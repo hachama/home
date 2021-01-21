@@ -70,6 +70,7 @@ permalink: /publi/
 | A. Diaf and M. Hachama, ["Feynman integral treatment of the Rosen-Morse Potential with a centrifugal term approximation"](https://doi.org/10.1139/cjp-2013-0122), Canadian Journal of Physics, 2013, 91(12): 1081-1085. 
 | E. Ailam, M. Hachama, M.N. Benallal, Y. Mehabil, J. Leveque and A. Rezzoug, ["Study of an axial superconducting motor using the Monte Carlo Method"](https://doi.org/10.1109/TASC.2013.2249853), IEEE Transactions on Applied Superconductivity, Vol. 23, Issue 3, 2013.
 | E. Ailam, M.N. Benallal, M. Hachama, J. Leveque and A. Rezzoug, ["Comparison study between several solutions of superconducting inductors"](https://doi.org/10.1109/TASC.2012.2232913), IEEE Transactions on Applied Superconductivity, Volume 23, Issue 1, 2013. 
+
 | M. Hachama, "Solving the image registration problem: a comparative study", ATIM 2013, The Algerian-Turkish International Days On Mathematics, İstanbul, Turkey, 2013.
 | M. Hachama, "A Spectral Approach to Non-Rigid Image Registration", International Conference on Mathematical Modeling in Physical Sciences, Prague, Czech Republic, September 1-5, 2013.
 | A. Diaf and M. Hachama, "Arbitrary l-state solutions of the Feynman propagator for the Rosen-Morse Potential with a centrifugal term approximation", International Conference on Mathematical Modeling in Physical Sciences, Prague, Czech Republic, September 1-5, 2013.
@@ -79,6 +80,7 @@ permalink: /publi/
 |2012|
 |----|
 | M. Hachama, A. Desolneux, and F. Richard, ["A Bayesian Technique For Image Classifying Registration"](https://doi.org/10.1109/TIP.2012.2200495), IEEE Transactions on Image Processing, Volume: 21 , Issue: 9, 2012.
+
 | L. Benaicha Matti and M. Hachama,"Représentation spectrale des déformations en recalage d'images", 8ème Rencontre d’Analyse Mathématique et ses Applications, Alger, 26-29 Novembre 2012.
 | A.  Diaf, M. Hachama et S.E. Bentridi, "Une approximation analytique des états  "l " relative au potentiel de Rosen-Morse via les intégrales de chemin de Feynman", 10ème  Congrès National de la Physique et de ses Applications CNPA 2012, Mostaganem, 20-22 Novembre 2012.
 | Ailam E., Hachama M., Benallal M.N., Hocine A., "Design of a superconducting inductor for axial concentration flux motor", The 12th CRYOGENICS 2012 - Dresden, Germany, 2012. 

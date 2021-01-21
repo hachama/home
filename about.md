@@ -24,7 +24,7 @@ permalink: /publi/
 |2019|
 |----|
 | H. Bakhti, A. Diaf, M. Hachama, ["Analytical solution of the Feynman Kernel for general exponential-type potentials"](https://doi.org/10.1088/1402-4896/ab05f3), Physica scripta, Volume 94, Number 5, 2019.
-
+|---
 | M. Hachama, "PDE for image denoising", la 9ème édition du colloque ​Tendances dans les Applications Mathématiques en Tunisie             Algérie Maroc, Tlemcen 23-27 Février 2019.
 | M. Hachama, "Une revue des équations aux dérivées partielles en restauration", Journée de Mathématiques Appliquées, JMA’2019, April 28, 2019, Mila-Algeria
 

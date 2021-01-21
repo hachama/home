@@ -10,7 +10,7 @@ permalink: /publi/
  
 |2021| 
 |----|
-| Amel Benali, Mohammed Hachama, Aouda Bounif, Ammar Nechnech, and Mourad Karray, ["A TLBO-Optimized Artificial Neural Network for Modeling Axial Capacity of Pile Foundations"](https://doi.org/10.1007/s00366-019-00847-5), Engineering with Computers 37, pages675–684(2021). 
+| Amel Benali, Mohammed Hachama, Aouda Bounif, Ammar Nechnech, and Mourad Karray, ["A TLBO-Optimized Artificial Neural Network for Modeling Axial Capacity of Pile Foundations"](https://doi.org/10.1007/s00366-019-00847-5), Engineering with Computers 37, pages 675-684 (2021). 
  
 |2020| 
 |----|

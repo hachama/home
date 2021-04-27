@@ -11,7 +11,6 @@ permalink: /publi/
 |2021| 
 |----|
 | Hadjer Bakhti, Ahmed Diaf, Mohammed Hachama, "Computing thermodynamic properties of the O2 and H2 molecules with multi-parameter exponential-type potential", ["first International Conference on Sustainable Energy and Advanced Materials IC-SEAM'21"](https://sites.google.com/view/seam21-ouargla/accueil), April 21-22, Ouargla (2021).
-
 | Amel Benali, Mohammed Hachama, Aouda Bounif, Ammar Nechnech, and Mourad Karray, ["A TLBO-Optimized Artificial Neural Network for Modeling Axial Capacity of Pile Foundations"](https://doi.org/10.1007/s00366-019-00847-5), Engineering with Computers 37, pages 675-684 (2021). 
  
 |2020| 

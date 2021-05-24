@@ -10,7 +10,7 @@ layout: home
 Professor, \\
 [Department of Mathematics](https://www.univ-blida.dz/index.php/fr/departements/mathematiques),\\
 [Saad Dahlab University - Blida 1](https://www.univ-blida.dz/index.php/en/), Algeria \\
-Vice Rector of  Prospective, Development, and Orientation
+Vice-Rector of Development, Prospective, and Orientation
 
 [Laboratory of Pure and Applied Mathematics](http://virtuelcampus.univ-msila.dz/lmpa2/)
  

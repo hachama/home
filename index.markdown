@@ -24,7 +24,7 @@ Email : <hachamam@gmail.com>
 
 
 ## Research interests
-* Applied mathematics in science and engineering.
+* Applied mathematics in science and engineering. 
 * Computer vision, 3D reconstruction.
 * Image processing: image registration, medical imaging. 
  

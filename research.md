@@ -17,7 +17,7 @@ permalink: /research/
    M. Hachama, B. Ghanem and P. Wonka, "Intrinsic Scene Decomposition from RGB-D images", In IEEE International Conference on Computer Vision (ICCV), 2015.
    </td> </tr>
 </table>
-
+ 
   
 <table>
   <tr> <th align="center"> <font size="5">Schrodinger equation</font> 

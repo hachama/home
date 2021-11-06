@@ -22,16 +22,10 @@ Email : <hachamam@gmail.com>
 * [Mendely](https://www.mendeley.com/profiles/mohammed-hachama/publications/) 
 * [Orcid](https://orcid.org/0000-0002-2441-5003)
 
-### Event
-* [International Conference on Mathematics and Applications (ICMA'2021)](https://icma21.sciencesconf.org/)
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+## Event
+
+* ```diff - [International Conference on Mathematics and Applications (ICMA'2021)](https://icma21.sciencesconf.org/) ```
 
 ## Research interests
 * Applied mathematics in science and engineering. 

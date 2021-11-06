@@ -16,6 +16,9 @@ Vice-Rector of Development, Prospective, and Orientation
  
 Email : <hachamam@gmail.com>
 
+#### Event
+* [International Conference on Mathematics and Applications (ICMA'2021)](https://icma21.sciencesconf.org/)
+
 #### Professional pages
 * [Scopus](https://www.scopus.com/authid/detail.uri?authorId=14048333600)
 * [Google Scholar](http://scholar.google.fr/citations?sortby=pubdate&hl=fr&user=NApH4ggAAAAJ&view_op=list_works)

@@ -25,7 +25,7 @@ Email : <hachamam@gmail.com>
 
 ## Event
 
-* ```diff - [International Conference on Mathematics and Applications (ICMA'2021)](https://icma21.sciencesconf.org/) ```
+* [```diff International Conference on Mathematics and Applications (ICMA'2021)```](https://icma21.sciencesconf.org/) 
 
 ## Research interests
 * Applied mathematics in science and engineering. 

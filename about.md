@@ -7,6 +7,9 @@ permalink: /publi/
 
 ### Conference and Journal Papers in Chronological Order
 
+|2022| 
+|----|
+|M. M'hamed Ezzine, M. Hachama, A. Diaf,   ["Feynman kernel analytical solutions for the deformed hyperbolic barrier potential with application to some diatomic molecules"](https://iopscience.iop.org/article/10.1088/1402-4896/ac3c57), Physica Scripta, Volume xx, Number xx, 2022. 
  
 |2021| 
 |----|

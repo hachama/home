@@ -9,10 +9,11 @@ permalink: /publi/
 
 |2022| 
 |----|
-|M. M'hamed Ezzine, M. Hachama, A. Diaf,   ["Feynman kernel analytical solutions for the deformed hyperbolic barrier potential with application to some diatomic molecules"](https://iopscience.iop.org/article/10.1088/1402-4896/ac3c57), Physica Scripta, Volume xx, Number xx, 2022. 
+
  
 |2021| 
 |----|
+|M. M'hamed Ezzine, M. Hachama, A. Diaf,   ["Feynman kernel analytical solutions for the deformed hyperbolic barrier potential with application to some diatomic molecules"](https://iopscience.iop.org/article/10.1088/1402-4896/ac3c57), Physica Scripta, Volume 96, Number 12, 2021.
 |A. Diaf, M. Hachama, M. M'hamed Ezzine, ["l-states solutions for the q-deformed Scarf potential with path integrals formulation"](https://doi.org/10.1088/1402-4896/ac0dfc), Physica Scripta, Volume 96, Number 10, 2021. 
 | Amel Benali, Mohammed Hachama, Aouda Bounif, Ammar Nechnech, and Mourad Karray, ["A TLBO-Optimized Artificial Neural Network for Modeling Axial Capacity of Pile Foundations"](https://doi.org/10.1007/s00366-019-00847-5), Engineering with Computers 37, pages 675-684 (2021). 
 | Hadjer Bakhti, Ahmed Diaf, Mohammed Hachama, "Computing thermodynamic properties of the O2 and H2 molecules with multi-parameter exponential-type potential", ["first International Conference on Sustainable Energy and Advanced Materials IC-SEAM'21"](https://sites.google.com/view/seam21-ouargla/accueil), April 21-22, Ouargla (2021).

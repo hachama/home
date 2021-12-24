@@ -9,11 +9,11 @@ permalink: /publi/
 
 |2022-Journal papers| 
 |----|
-|
+|.
 
 |2022-Conference papers| 
 |----|
-|
+|.
 
 
 |2021-Journal papers| 

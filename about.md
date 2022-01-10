@@ -9,7 +9,7 @@ permalink: /publi/
 
 |2022-Journal papers| 
 |----|
-|S. Benalia, M. Hachama, ["A nonlocal method for image shadow removal"](https://www.sciencedirect.com/science/article/abs/pii/S0898122121004636?dgcid=author), Computers and Mathematics with Applications, To appear, 2022.
+|S. Benalia, M. Hachama, ["A nonlocal method for image shadow removal"](https://www.sciencedirect.com/science/article/abs/pii/S0898122121004636?dgcid=author), Computers and Mathematics with Applications, Volume 107, 1 February 2022, Pages 95-103.
 
 |2022-Conference papers| 
 |----|

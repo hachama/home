@@ -11,7 +11,7 @@ permalink: /research/
     <th align="center"> <font size="5">Non local approaches</font> </th>
   </tr>
   <tr>
-    <td  align="center">    <img src="/home/projects/cma22.png" alt="Non local shadow removal"> </td>
+    <td  align="center">    <img src="/home/projects/cma22.jpg" alt="Non local shadow removal"> </td>
   </tr>
     <tr>
     <td>   S. Benalia, M. Hachama, “A nonlocal method for image shadow removal”, Computers and Mathematics with Applications, Volume 107, 1 February 2022, Pages 95-103.</td>

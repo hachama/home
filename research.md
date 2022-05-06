@@ -24,8 +24,8 @@ permalink: /research/
   <tr> <td  align="center"> 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/0ilTmJcyrL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </td> </tr>
+      <tr>  <td>   S. Benalia, M. Hachama, “A nonlocal method for image shadow removal”, Computers and Mathematics with Applications, Volume 107, 1 February 2022, Pages 95-103.</td>  </tr>
    <tr> <td>  M. Hachama, B. Ghanem and P. Wonka, "Intrinsic Scene Decomposition from RGB-D images", In IEEE International Conference on Computer Vision (ICCV), 2015.  </td> </tr>
-    <tr>  <td>   S. Benalia, M. Hachama, “A nonlocal method for image shadow removal”, Computers and Mathematics with Applications, Volume 107, 1 February 2022, Pages 95-103.</td>  </tr>
 </table>
  
   

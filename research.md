@@ -8,6 +8,18 @@ permalink: /research/
 
 <table>
   <tr> <th align="center"> <font size="5">
+  Non local approaches</font> 
+  </th> </tr>
+  <tr> <td  align="center"> 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0ilTmJcyrL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </td> </tr>
+   <tr> <td> 
+   S. Benalia, M. Hachama, “A nonlocal method for image shadow removal”, Computers and Mathematics with Applications, Volume 107, 1 February 2022, Pages 95-103.
+   </td> </tr>
+</table>
+
+<table>
+  <tr> <th align="center"> <font size="5">
   Intrinsic images</font> 
   </th> </tr>
   <tr> <td  align="center"> 

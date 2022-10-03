@@ -146,7 +146,7 @@ permalink: /publi/
 | M. Hachama, F. Richard, D. Balvay, R. Thiam, A. Desolneux, et C-A. Cuenod, "Recalage classifiant de séquences d’images de perfusion", 3ième journées d’études Algéro-Françaises en imagerie médicale JETIM’2008 Blida, Algérie, Novembre 2008. 
 
 
-|2006-Conference papers| 
+|2006-Conference papers|  
 |----|
 | M. Hachama, A. Desolneux et F. Richard, ["Combining registration and abnormality detection in mammography"](https://doi.org/10.1007/11784012_22), In Proc. of the 2nd Workshop on Biomedical Image registration, WBIR'06 , LNCS, vol. 4057, Utrecht, Netherland, juillet 2006.
 | M. Hachama, A. Desolneux et F. Richard, ["A probabilistic approach for the simultaneous mammogram registration and abnormality detection"](https://doi.org/10.1007/11783237_29), In Proc. of the International Workshop on Digital Mammography, IWDM'06 , LNCS, vol. 4046 , pp. 205-212, Manchester, UK, juin 2006.

@@ -20,7 +20,7 @@ Email : <hachamam@gmail.com>
 
 * [Scopus](https://www.scopus.com/authid/detail.uri?authorId=14048333600)
 * [Google Scholar](http://scholar.google.fr/citations?sortby=pubdate&hl=fr&user=NApH4ggAAAAJ&view_op=list_works)
-* [Web of Science ResearcherID AAC-7663-2019](https://publons.com/researcher/3395822/mohammed-hachama/)
+* [Web of Science ResearcherID AAC-7663-2019](https://www.webofscience.com/wos/author/record/2100283/)
 * [Orcid](https://orcid.org/0000-0002-2441-5003)
 
 ## Event

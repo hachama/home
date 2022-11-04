@@ -4,11 +4,11 @@ title: Teaching
 permalink: /teach/
 ---
 
-### Fall 2020
+### Fall 2022
 * [Introduction to image processing](https://hachama.github.io/introimg/)
 * [Mathematical models for image processing](https://hachama.github.io/img/)
 
-### Spring 2021
+### Spring 2022
 * [Computer vision](https://hachama.github.io/vision)
 * [Convex optimization](https://hachama.github.io/cvoptim/)
 

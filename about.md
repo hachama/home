@@ -28,7 +28,7 @@ permalink: /publi/
 |----|
 | Sabira Ben Alia and Mohammed Hachama, "Nonlocal differential operatos applied to image processing", ["International Conference on Mathematics and Applications ICMA'2021"](https://icma21.sciencesconf.org/), 7 – 8 December, Blida (2021).
 | Hadjer Bakhti, Ahmed Diaf, Mohammed Hachama, "Computing thermodynamic properties of the O2 and H2 molecules with multi-parameter exponential-type potential", ["first International Conference on Sustainable Energy and Advanced Materials IC-SEAM'21"](https://sites.google.com/view/seam21-ouargla/accueil), April 21-22, Ouargla (2021).
-| Ahmed Diaf and Mohammed Hachama, "Computational study of the thermodynamic properties for some diatomic molecules with the q-deformed Scarf II hyperbolic potential", ["first National Conference on Theoretical Physics CNPT'21"](https://cnpt21.weebly.com/), December 8-9, Tlemcen (2021).
+| M. M'hamed Ezzine, Ahmed Diaf and Mohammed Hachama, "Computational study of the thermodynamic properties for some diatomic molecules with the q-deformed Scarf II hyperbolic potential", ["first National Conference on Theoretical Physics CNPT'21"](https://cnpt21.weebly.com/), December 8-9, Tlemcen (2021).
 | Mohammed Hachama, "Mathématiques en images", ["Journée internationale des mathématiques"](http://www.smath.dz/act/idm21/), Webinar, March 13, (2021).
  
 |2020-Journal papers| 

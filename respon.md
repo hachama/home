@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Responsabilities
-permalink: /scient/
+permalink: /respon/
 ---
 
 |Administrative responsabilities| 
@@ -12,15 +12,15 @@ permalink: /scient/
 
 |Projects| 
 |----|
-|- Research project leader (PRFU) : "Study of some differential equations and their applications"}{}{University of Blida 1}{2022 -- 2026}
-|- Research team leader: Mathematics for complex systems}{}{Laboratory of Energy and Intelligent Systems}{2009 -- 2014}
-|- Research project leader (three projects): CNEPRU}{}{Laboratory of Energy and Intelligent Systems}{2010 -- 2016}
-|- Research project leader: PNR}{}{Laboratory of Energy and Intelligent Systems}{2011 -- 2014}
-|- Leader of the Algerian partner of the EURO-Mediterranean project HYDRINV}{}{Laboratory of Energy and Intelligent Systems}{2012 -- 2016}
+|- Research project leader (PRFU) : "Study of some differential equations and their applications", University of Blida 1, 2022 -- 2026
+|- Research team leader: Mathematics for complex systems, Laboratory of Energy and Intelligent Systems, 2009 -- 2014
+|- Research project leader (three projects): CNEPRU, Laboratory of Energy and Intelligent Systems, 2010 -- 2016
+|- Research project leader: PNR, Laboratory of Energy and Intelligent Systems, 2011 -- 2014
+|- Leader of the Algerian partner of the EURO-Mediterranean project HYDRINV, Laboratory of Energy and Intelligent Systems, 2012 -- 2016
 
 |Journals| 
 |----|
-|- Associate Editor of the "Journal of Innovative Applied Mathematics and Computational Sciences (JIAMCS)" - ISSN: 2773-4196}{}{University Center Abdelhafid Boussouf, Mila}{2021 - present}
+|- Associate Editor of the "Journal of Innovative Applied Mathematics and Computational Sciences (JIAMCS)" - ISSN: 2773-4196, University Center of Mila, 2021 - present
 |- Guest Editor of the JIAMCS, Special issue dedicated to some selected papers of the ICMA'2021. 
 |- Reviewer for the JIAMCS.
 |- Reviewer for Computers and Mathematics with Applications, Elsevier.
@@ -55,8 +55,8 @@ permalink: /scient/
 |- Member of the Faculty Scientific Committee, University of Khemis Miliana, 2019 -- 2020.
 |- Chair of the Scientific Committee of the Mathematics Department, University of Khemis Miliana, 2019 -- 2020.
 |- Head of the Scientific Committee of the Mathematics Department, University of Khemis Miliana, 2013 -- 2014.
-|- Responsable de l'\'equipe du domaine de formation MI, University of Khemis Miliana, 2009 -- 2010.
+|- Responsable de l'équipe du domaine de formation MI, University of Khemis Miliana, 2009 -- 2010.
 |- Member of the Faculty Scientific Committee, University of Khemis Miliana, 2009 -- 2014.
 |- Competitive admission process for the international fellowship, 2017-2018. CRUC, University of Blida.
-|- Competitive admission process for the "Grandes \'ecoles", ENSH  + CRUC.
+|- Competitive admission process for the "Grandes écoles", ENSH  + CRUC.
 |- Expertise of the curriculum of License and Master degrees (LMD), 2009--2010, CRUC, University of Blida.

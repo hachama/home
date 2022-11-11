@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Positions
-permalink: /publi/
+permalink: /positions/
 ---
 
 |Administrative positions| 

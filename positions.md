@@ -13,7 +13,6 @@ permalink: /publi/
 |Academic positions| 
 |----|
 |- Professor, University of Blida 1, November 2020 -- present
-|----|
 |- Professor, University of Khemis Miliana, July 2018 -- October 2020
 |- Associate professor, University of Khemis Miliana, 2011 -- 2018
 |- Postdoctoral Fellow, King Abdullah University of Science and Technology, 2014 -- 2016

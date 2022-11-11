@@ -15,7 +15,7 @@ permalink: /publi/
 
 |2022-Conference papers| 
 |----|
-|M. Hachama, "Image restoration using nonlocal techniques", Célébration du 25 ème anniversaire de la Rencontre d'Analyse Mathématique et ses Applications (RAMA), Université de M'Sila, le 26 octobre 2022.
+|M. Hachama, "Image restoration using nonlocal techniques", Invited talk, Célébration du 25 ème anniversaire de la Rencontre d'Analyse Mathématique et ses Applications (RAMA), Université de M'Sila, le 26 octobre 2022.
 
 
 |2021-Journal papers| 

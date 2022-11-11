@@ -4,6 +4,12 @@ title: Scientific responsabilities
 permalink: /scient/
 ---
 
+|Administrative responsabilities| 
+|----|
+|- Vice-Rector of Development, Prospective, and Orientation, University of Blida 1, 2020 -- present
+|- Head of the Faculty of Sciences and Technology, University of Khemis Miliana, 2010 -- 2011
+|- Head of the Mathematics and Computer Science Department, University of Khemis Miliana, 2009 -- 2010
+
 |Projects| 
 |----|
 |- Research project leader (PRFU) : "Study of some differential equations and their applications"}{}{University of Blida 1}{2022 -- 2026}

@@ -1,47 +1,12 @@
 ---
 layout: page
-title: Positions
+title: Scientific responsabilities
 permalink: /scient/
 ---
 
-|Administrative positions| 
+|Projects| 
 |----|
 |- Vice-Rector of Development, Prospective, and Orientation, University of Blida 1, 2020 -- present
-|- Head of the Faculty of Sciences and Technology, University of Khemis Miliana, 2010 -- 2011
-|- Head of the Mathematics and Computer Science Department, University of Khemis Miliana, 2009 -- 2010
-
-|Academic positions| 
-|----|
-|- Professor, University of Blida 1, November 2020 -- present
-|- Professor, University of Khemis Miliana, July 2018 -- October 2020
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\resheading{Administrative responsibilities}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\begin{itemize}
-
-	\ressubheading{Vice-Rector of Development, Prospective, and Orientation}{}{University of Blida 1}{2020 -- present}
-			
-	\ressubheading{Head of the Faculty of Sciences and Technology}{}{University of Khemis Miliana}{2010 -- 2011}
-	
-	\ressubheading{Head of the Mathematics and Computer Science Department}{}{University of Khemis Miliana}{2009 -- 2010}
-	
-	%\item
-	%\ressubheading{Cr�eation du Master Math�ematiques Appliqu�ees et Traitement du Signal}{Banff, AB}{Banff International Research Station}{February 26 -- March 2, 2012}
-	%\item
-	%	\ressubheading{Participation `a la cr�eation du Laboratoire de Recherche LESI (agr�ee en juin 2009)}{Toronto, ON}{York and Ryerson Universities}{December 10 -- 12, 2011}
-\end{itemize}
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\resheading{Scientific responsibilities -Projects-}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\begin{itemize}
-
 \ressubheading{Research project leader (PRFU) : "Study of some differential equations and their applications"}{}{University of Blida 1}{2022 -- 2026}
 
 \ressubheading{Research team leader: Mathematics for complex systems}{}{Laboratory of Energy and Intelligent Systems}{2009 -- 2014}
@@ -52,13 +17,11 @@ permalink: /scient/
 
 \ressubheading{Leader of the Algerian partner of the EURO-Mediterranean project HYDRINV}{}{Laboratory of Energy and Intelligent Systems}{2012 -- 2016}
 
-\end{itemize}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\resheading{Scientific responsibilities -Journals-}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\begin{itemize}
+|Journals| 
+|----|
+|- Professor, University of Blida 1, November 2020 -- present
+|- Professor, University of Khemis Miliana, July 2018 -- October 2020
 	\ressubheading{Associate Editor of the "Journal of Innovative Applied Mathematics and Computational Sciences (JIAMCS)" - ISSN: 2773-4196}{}{University Center Abdelhafid Boussouf, Mila}{2021 - present}
 	\vspace{-0.5cm}  
 	\ressubheading{Guest Editor of the JIAMCS}{}{Special issue dedicated to some selected papers of the ICMA'2021}{2022}
@@ -80,13 +43,10 @@ permalink: /scient/
 	\ressubheading{Reviewer for Recent Patents on Computer Science, Bentham Science.}{}{}{}
 	\vspace{-0.5cm}
 	\ressubheading{Reviewer for Applied Mathematics E-Notes, ISSN 1607-2510.}{}{}{}
-\end{itemize}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\resheading{Scientific responsibilities -Conferences-}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\begin{itemize}	
+|Conferences| 
+|----|
+|-
 	\ressubheading{General chair of the International Conference on Mathematics and Applications ICMA'2021}{}{University of de Blida 1}{December 2021}
 	
 	\ressubheading{Member of the scientific committee of the "Mini-Congrès des Mathématiciens Algériens (MCMA’2021)"}{}{Algerian Mathematical Society}{October 2021}
@@ -113,14 +73,12 @@ permalink: /scient/
 	\ressubheading{Reviewer for The 2nd International Conference on Sensor Networks and Signal Processing (India, SNSP 2019).}{}{}{}  
 	\vspace{-0.5cm}
 	\ressubheading{Reviewer for 3nd International Conference on Advanced Informatics For Computing Research (India, ICAICR-2019).}{}{}{}   
-\end{itemize}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\resheading{Scientific responsibilities -Committees-}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+|Committees| 
+|----|
+|-
 
-\begin{itemize}	
-	
+
 	\ressubheading{Member of the University Scientific Committee}{}{University of Blida 1}{2020 -- present}
 		
 			\ressubheading{Member of the doctorate committee}{}{University of Blida 1}{2021 -- present}
@@ -141,4 +99,4 @@ permalink: /scient/
 	\vspace{-0.5cm}
 	\ressubheading{Expertise of the curriculum of License and Master degrees (LMD), 2009--2010.}{CRUC, University of Blida}{}{}
 
-\end{itemize}
+

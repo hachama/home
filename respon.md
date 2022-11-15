@@ -20,7 +20,7 @@ permalink: /respon/
 
 |Journals| 
 |----|
-|- Associate Editor of the "Journal of Innovative Applied Mathematics and Computational Sciences (JIAMCS)" - ISSN: 2773-4196, University Center of Mila, 2021 - present
+|- Editorial broad member of the "Journal of Innovative Applied Mathematics and Computational Sciences (JIAMCS)" - ISSN: 2773-4196, University Center of Mila, 2021 - present
 |- Guest Editor of the JIAMCS, Special issue dedicated to some selected papers of the ICMA'2021. 
 |- Reviewer for the JIAMCS.
 |- Reviewer for Computers and Mathematics with Applications, Elsevier.

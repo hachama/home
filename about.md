@@ -9,7 +9,7 @@ permalink: /publi/
 
 |2023-Journal papers| 
 |----|
-|A. Lamamri, M. Hachama, ["Approximate solution of the shortest path problem with resource constraints and applications to vehicle routing problems"](https://www.aimspress.com/article/doi/10.3934/era.2023030), Electronic Research Archive, 2023, 31(2): 615-632. doi: 10.3934/era.2023030.
+|A. Lamamri, M. Hachama, ["Approximate solution of the shortest path problem with resource constraints and applications to vehicle routing problems"](https://www.aimspress.com/article/doi/10.3934/era.2023030), Electronic Research Archive, 2023, 31(2): 615-632.
 
 |2022-Journal papers| 
 |----|

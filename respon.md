@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Responsabilities
+title: Activities
 permalink: /respon/
 ---
 

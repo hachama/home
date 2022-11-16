@@ -4,7 +4,9 @@ title: Activities
 permalink: /respon/
 ---
 
-|Projects| 
+### Scientific responsabilities
+
+|Projects|
 |----|
 |- Research project leader (PRFU) : "Study of some differential equations and their applications", University of Blida 1, 2022 -- 2026
 |- Research team leader: Mathematics for complex systems, Laboratory of Energy and Intelligent Systems, 2009 -- 2014
@@ -14,23 +16,23 @@ permalink: /respon/
 
 |Journals| 
 |----|
-|- Editorial broad member of the "Journal of Innovative Applied Mathematics and Computational Sciences (JIAMCS)" - ISSN: 2773-4196, University Center of Mila, 2021 - present
-|- Guest Editor of the JIAMCS, Special issue dedicated to some selected papers of the ICMA'2021. 
-|- Reviewer for the JIAMCS.
-|- Reviewer for Computers and Mathematics with Applications, Elsevier.
-|- Reviewer for Computer Methods and Programs in Biomedicine, Elsevier.
-|- Reviewer for Neural Computing and Applications, Springer.
-|- Reviewer for Journal of Applied Remote Sensing (JARS), SPIE. 
-|- Reviewer for Optical Engineering (JOE), SPIE. 
-|- Reviewer for Journal of Electronic Imaging (JEI), SPIE.
-|- Reviewer for Recent Patents on Computer Science, Bentham Science.
-|- Reviewer for Applied Mathematics E-Notes, ISSN 1607-2510.
+|- Editorial broad member of the ["Journal of Innovative Applied Mathematics and Computational Sciences (JIAMCS)"](http://jiamcs.centre-univ-mila.dz/index.php/jiamcs) - ISSN: 2773-4196, University Center of Mila, 2021 - present
+|- Guest Editor of the JIAMCS, ["Special issue dedicated to some selected papers of the ICMA'2021"](http://jiamcs.centre-univ-mila.dz/index.php/jiamcs/issue/view/icma2021). 
+|- Reviewer for the ["JIAMCS"](http://jiamcs.centre-univ-mila.dz/index.php/jiamcs).
+|- Reviewer for ["Computers and Mathematics with Applications"](https://www.sciencedirect.com/journal/computers-and-mathematics-with-applications), Elsevier.
+|- Reviewer for ["Computer Methods and Programs in Biomedicine"](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine), Elsevier.
+|- Reviewer for ["Neural Computing and Applications"](https://www.springer.com/journal/521), Springer.
+|- Reviewer for ["Journal of Applied Remote Sensing (JARS), SPIE"](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing?SSO=1). 
+|- Reviewer for ["Optical Engineering (JOE), SPIE"](https://www.spiedigitallibrary.org/journals/optical-engineering). 
+|- Reviewer for ["Journal of Electronic Imaging (JEI), SPIE"](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging).
+|- Reviewer for ["Recent Patents on Computer Science, Bentham Science"](https://benthamscience.com/public/journals/recent-patents-on-computer-science).
+|- Reviewer for ["Applied Mathematics E-Notes, ISSN 1607-2510"](https://www.emis.de/journals/AMEN/).
 
 |Conferences| 
 |----|
-|- General chair of the International Conference on Mathematics and Applications ICMA'2021, University of de Blida 1, December 2021.
-|- Member of the scientific committee of the "Mini-Congrès des Mathématiciens Algériens (MCMA’2021)", Algerian Mathematical Society, October 2021.
-|- Member of the scientific committee of the National Conference "Modélisation Mathématique en Biologie (MMB'2022)", Algerian Mathematical Society, Msila, Mars 2022.
+|- General chair of the ["International Conference on Mathematics and Applications ICMA'2021"](https://icma21.sciencesconf.org/), University of de Blida 1, December 2021.
+|- Member of the scientific committee of the ["Mini-Congrès des Mathématiciens Algériens (MCMA’2021)"](https://www.univ-msila.dz/en/?p=2337), Algerian Mathematical Society, October 2021.
+|- Member of the scientific committee of the National Conference ["Modélisation Mathématique en Biologie (MMB'2022)"](http://virtuelcampus.univ-msila.dz/facscience/?p=5949), Algerian Mathematical Society, Msila, Mars 2022.
 |- Member of the organization committee of the webinar "International Day of Mathematics JIM'21", Algerian Mathematical Society, March 2021.
 |- Member of the organizing committee of the doctorate days, University Mohamed Boudiaf - M'Sila, December 2017.
 |- Program Chair of the Workshop ”Mathematics in images” MI'2017, University Mohamed Boudiaf - M'Sila, June 2017. 

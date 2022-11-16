@@ -33,11 +33,11 @@ permalink: /respon/
 |- General chair of the ["International Conference on Mathematics and Applications ICMA'2021"](https://icma21.sciencesconf.org/), University of de Blida 1, December 2021.
 |- Member of the scientific committee of the ["Mini-Congrès des Mathématiciens Algériens (MCMA’2021)"](https://www.univ-msila.dz/en/?p=2337), Algerian Mathematical Society, October 2021.
 |- Member of the scientific committee of the National Conference ["Modélisation Mathématique en Biologie (MMB'2022)"](http://virtuelcampus.univ-msila.dz/facscience/?p=5949), Algerian Mathematical Society, Msila, Mars 2022.
-|- Member of the organization committee of the webinar "International Day of Mathematics JIM'21", Algerian Mathematical Society, March 2021.
+|- Member of the organization committee of the webinar ["International Day of Mathematics JIM'21"](http://www.smath.dz/act/idm21/), Algerian Mathematical Society, March 2021.
 |- Member of the organizing committee of the doctorate days, University Mohamed Boudiaf - M'Sila, December 2017.
 |- Program Chair of the Workshop ”Mathematics in images” MI'2017, University Mohamed Boudiaf - M'Sila, June 2017. 
 |- Program Chair of the International Conference CIEME'09, University of Khemis Miliana, November 2009. 
-|- Reviewer for 7th International Conference: Sciences of Electronics, Technologies of Information and Telecommunication, 2016.      
+|- Reviewer for [7th International Conference: Sciences of Electronics](https://ieeexplore.ieee.org/xpl/conhome/7936636/proceeding), Technologies of Information and Telecommunication, 2016.      
 |- Reviewer for 8th International Conference: Sciences of Electronics, Technologies of Information and Telecommunication, Tunisia, 2018.  
 |- Reviewer for the 8th International Conference on Biomedical Engineering and Biotechnology (ICBEB 2019). 
 |- Reviewer for 9th International Conference: Sciences of Electronics, Technologies of Information and Telecommunication, Tunisia, 2022.  

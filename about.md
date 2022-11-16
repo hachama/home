@@ -7,6 +7,10 @@ permalink: /publi/
 
 ### Conference and Journal Papers in Chronological Order
 
+|2023-Journal papers| 
+|----|
+|A. Lamamri, M. Hachama, ["Approximate solution of the shortest path problem with resource constraints and applications to vehicle routing problems"](https://www.aimspress.com/article/doi/10.3934/era.2023030), Electronic Research Archive, 2023, 31(2): 615-632. doi: 10.3934/era.2023030.
+
 |2022-Journal papers| 
 |----|
 |S. Benalia, M. Hachama, ["A nonlocal method for image shadow removal"](https://www.sciencedirect.com/science/article/abs/pii/S0898122121004636?dgcid=author), Computers and Mathematics with Applications, Volume 107, 1 February 2022, Pages 95-103.

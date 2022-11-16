@@ -19,8 +19,8 @@ permalink: /publi/
 
 |2022-Conference papers| 
 |----|
+|M. Hachama, "Nonlocal models in image processing", Invited talk, 8ème Workshop du laboratoire AMNEDP 2022, UUSTHB, 12-13 novembre 2022.
 |M. Hachama, "Image restoration using nonlocal techniques", Invited talk, Célébration du 25 ème anniversaire de la Rencontre d'Analyse Mathématique et ses Applications (RAMA), Université de M'Sila, le 26 octobre 2022.
-
 
 |2021-Journal papers| 
 |----|

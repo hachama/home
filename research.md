@@ -18,6 +18,14 @@ permalink: /research/
 </table>
 
 <table>
+  <tr>
+    <th align="center"> <font size="5">Fractional calculus</font> </th>
+  </tr>
+    <tr>  <td>  Farid Chabane, Maamar Benbachir, Mohammed Hachama & Mohammad Esmael Samei, “Existence of positive solutions for p-Laplacian boundary value problems of fractional differential equations”, Boundary Value Problems, 2022, 65 (2022).</td>  </tr>
+
+</table>
+
+<table>
   <tr> <th align="center"> <font size="5">
   Intrinsic images</font> 
   </th> </tr>

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Scient. activities
+title: Scient. activ.
 permalink: /respon/
 ---
 
-### Scientific responsabilities
+### Scientific activities
 
 |Projects|
 |----|

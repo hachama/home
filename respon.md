@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scientific responsabilities
+title: Scient. activities
 permalink: /respon/
 ---
 

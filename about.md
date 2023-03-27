@@ -9,6 +9,7 @@ permalink: /publi/
 
 |2023-Journal papers| 
 |----|
+|A. Diaf, M. Hachama, M. M'hamed Ezzine, ["Thermodynamic properties for some diatomic molecules with the q-deformed hyperbolic barrier potential"](https://www.tandfonline.com/journals/tmph20), Molecular Physics, 2023.
 |A. Lamamri, M. Hachama, ["Approximate solution of the shortest path problem with resource constraints and applications to vehicle routing problems"](https://www.aimspress.com/article/doi/10.3934/era.2023030), Electronic Research Archive, 2023, 31(2): 615-632.
 
 |2022-Journal papers| 

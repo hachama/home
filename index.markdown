@@ -7,7 +7,7 @@ layout: home
 
 <!-- # Mohammed Hachama -->
 
-![alt text](moi.png)
+![alt text](me2023.jpeg)
 
 Professor,\\
 [Department of Mathematics](https://www.univ-blida.dz/index.php/fr/departements/mathematiques),\\

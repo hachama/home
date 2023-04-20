@@ -9,6 +9,8 @@ layout: home
 
 ![me](me2023.jpeg)
 
+<img src="me2023.jpeg" width="128"/>
+
 Professor,\\
 [Department of Mathematics](https://www.univ-blida.dz/index.php/fr/departements/mathematiques),\\
 [Saad Dahlab University - Blida 1](https://www.univ-blida.dz/index.php/en/), Algeria \\

@@ -7,7 +7,7 @@ layout: home
 
 <!-- # Mohammed Hachama -->
 
-![me](me2023.jpeg)
+# ![me](me2023.jpeg)
 
 <img src="me2023.jpeg" width="128"/>
 

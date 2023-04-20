@@ -7,6 +7,8 @@ layout: home
 
 <!-- # Mohammed Hachama -->
 
+![alt text](moi.png)
+
 Professor,\\
 [Department of Mathematics](https://www.univ-blida.dz/index.php/fr/departements/mathematiques),\\
 [Saad Dahlab University - Blida 1](https://www.univ-blida.dz/index.php/en/), Algeria \\

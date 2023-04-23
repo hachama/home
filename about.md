@@ -10,10 +10,10 @@ permalink: /publi/
 |2023-Journal papers| 
 |----|
 |A. Diaf, M. Hachama, M. M'hamed Ezzine, ["Thermodynamic properties for some diatomic molecules with the q-deformed hyperbolic barrier potential"](https://www.tandfonline.com/doi/full/10.1080/00268976.2023.2198045), Molecular Physics, 2023.
-|A. Lamamri, M. Hachama, ["Approximate solution of the shortest path problem with resource constraints and applications to vehicle routing problems"](https://www.aimspress.com/article/doi/10.3934/era.2023030), Electronic Research Archive, 2023, 31(2): 615-632.
 
 |2022-Journal papers| 
 |----|
+|A. Lamamri, M. Hachama, ["Approximate solution of the shortest path problem with resource constraints and applications to vehicle routing problems"](https://www.aimspress.com/article/doi/10.3934/era.2023030), Electronic Research Archive, 2023, 31(2): 615-632.
 |S. Benalia, M. Hachama, ["A nonlocal method for image shadow removal"](https://www.sciencedirect.com/science/article/abs/pii/S0898122121004636?dgcid=author), Computers and Mathematics with Applications, Volume 107, 1 February 2022, Pages 95-103.
 |Farid Chabane, Maamar Benbachir, Mohammed Hachama & Mohammad Esmael Samei, ["Existence of positive solutions for p-Laplacian boundary value problems of fractional differential equations"](https://boundaryvalueproblems.springeropen.com/articles/10.1186/s13661-022-01645-7), Boundary Value Problems, 65 (2022).
 | Hadjer Bakhti, Ahmed Diaf, Mohammed Hachama, ["Computing thermodynamic properties of some diatomic molecules using a q-deformed Scarf-like Potential"](https://www.tandfonline.com/tdoi/full/10.1080/00268976.2022.2133752), Molecular Physics (2022): e2133752.

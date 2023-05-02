@@ -25,7 +25,7 @@ Email : <hachamam@gmail.com>
 
 ## Event
 * [```Second International Conference on Mathematics and Applications (ICMA'2023)```](https://icma23.sciencesconf.org/)
-* [```International Conference on Mathematics and Applications (ICMA'2021)```](https://icma21.sciencesconf.org/)
+* [International Conference on Mathematics and Applications (ICMA'2021)](https://icma21.sciencesconf.org/)
 
 ## Research interests
 

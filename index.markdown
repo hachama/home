@@ -24,7 +24,8 @@ Email : <hachamam@gmail.com>
 * [Orcid](https://orcid.org/0000-0002-2441-5003)
 
 ## Event
-* [```Second International Conference on Mathematics and Applications (ICMA'2023)```](https://icma23.sciencesconf.org/)
+* [```Second International Conference on Mathematics and Applications (ICMA'2023)```](https://icma23.sciencesconf.org/), 26-27 Sept 2023.
+
 * [International Conference on Mathematics and Applications (ICMA'2021)](https://icma21.sciencesconf.org/)
 
 ## Research interests

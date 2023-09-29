@@ -6,7 +6,7 @@ permalink: /positions/
 
 |Administrative positions| 
 |----|
-|- Vice-Rector of Development, Prospective, and Orientation, University of Blida 1, 2021 -- present
+|- Vice-Rector of Development, Prospective, and Orientation, University of Blida 1, 2021 -- August 2023
 |- Head of the Faculty of Sciences and Technology, University of Khemis Miliana, 2010 -- 2011
 |- Head of the Mathematics and Computer Science Department, University of Khemis Miliana, 2009 -- 2010
 

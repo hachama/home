@@ -40,7 +40,6 @@ header_pages:
   - positions.md
   - respon.md
 
-
 # Server Config options
 livereload: true     # You no longer need to include --livereload
 

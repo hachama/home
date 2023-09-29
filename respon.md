@@ -19,6 +19,8 @@ permalink: /respon/
 |- Editorial broad member of the ["Journal of Innovative Applied Mathematics and Computational Sciences (JIAMCS)"](http://jiamcs.centre-univ-mila.dz/index.php/jiamcs) - ISSN: 2773-4196, University Center of Mila, 2021 - present
 |- Guest Editor of the JIAMCS, ["Special issue dedicated to some selected papers of the ICMA'2021"](http://jiamcs.centre-univ-mila.dz/index.php/jiamcs/issue/view/icma2021). 
 |- Reviewer for the ["JIAMCS"](http://jiamcs.centre-univ-mila.dz/index.php/jiamcs).
+|- Reviewer for ["Journal of Function Spaces"](https://www.hindawi.com/journals/jfs/), Hindawi.
+|- Reviewer for ["Arabian Journal of Mathematics"](https://www.springer.com/journal/40065), Springer.
 |- Reviewer for ["Computers and Mathematics with Applications"](https://www.sciencedirect.com/journal/computers-and-mathematics-with-applications), Elsevier.
 |- Reviewer for ["Computer Methods and Programs in Biomedicine"](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine), Elsevier.
 |- Reviewer for ["Neural Computing and Applications"](https://www.springer.com/journal/521), Springer.

@@ -14,7 +14,7 @@ Professor,\\
 
 Email : <hachamam@gmail.com>
 
-#### Professional pages
+### Professional pages
 
 * [Scopus](https://www.scopus.com/authid/detail.uri?authorId=14048333600)
 * [Google Scholar](http://scholar.google.fr/citations?sortby=pubdate&hl=fr&user=NApH4ggAAAAJ&view_op=list_works)

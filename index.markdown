@@ -8,9 +8,7 @@ layout: home
 <!-- # Mohammed Hachama -->
 
 Professor,\\
-[Department of Mathematics](https://www.univ-blida.dz/index.php/fr/departements/mathematiques),\\
-[Saad Dahlab University - Blida 1](https://www.univ-blida.dz/index.php/en/), Algeria \\
-Vice-Rector of Development, Prospective, and Orientation
+[National Higher School of Mathematics](http://www.nhsm.edu.dz), Algeria \\
 
 [Laboratory of Pure and Applied Mathematics](http://virtuelcampus.univ-msila.dz/lmpa2/)
 
@@ -24,8 +22,7 @@ Email : <hachamam@gmail.com>
 * [Orcid](https://orcid.org/0000-0002-2441-5003)
 
 ## Event
-* [```Second International Conference on Mathematics and Applications (ICMA'2023)```](https://icma23.sciencesconf.org/), 26-27 Sept 2023.
-
+* [Second International Conference on Mathematics and Applications (ICMA'2023)](https://icma23.sciencesconf.org/), 26-27 Sept 2023.
 * [International Conference on Mathematics and Applications (ICMA'2021)](https://icma21.sciencesconf.org/)
 
 ## Research interests
@@ -44,7 +41,8 @@ Email : <hachamam@gmail.com>
 
 ## Professional profile
 
-* November 2020 - present: Full professor, Saad Dahlab University - Blida 1, Algeria  
+* September 2023 - present: Full professor, National Higher School of Mathematrics, Algeria  
+* November 2020 - August 2023: Full professor, Saad Dahlab University - Blida 1, Algeria  
 * July 2018 - October 2020: Full professor, University of Khemis Miliana, Algeria  
 * June 2011 - June 2018: Associate Professor, University of Khemis Miliana, Algeria  
 * 2014 - 2016: Researcher, Visual Computing Center, KAUST, Saudi Arabia  

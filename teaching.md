@@ -4,6 +4,9 @@ title: Teaching
 permalink: /teach/
 ---
 
+### Fall 2023 (NHSM)
+* [Partial Differential Equations](https://hachama.github.io/pde)
+
 ### Spring 2023
 * [Computer vision](https://hachama.github.io/vision)
 * [Convex optimization](https://hachama.github.io/cvoptim/)

@@ -30,6 +30,7 @@ permalink: /respon/
 
 |Conferences| 
 |----|
+|- General chair of the ["Second International Conference on Mathematics and Applications ICMA'2023"](https://icma23.sciencesconf.org/), University of de Blida 1, september 2023.
 |- General chair of the ["International Conference on Mathematics and Applications ICMA'2021"](https://icma21.sciencesconf.org/), University of de Blida 1, December 2021.
 |- Member of the scientific committee of the ["Mini-Congrès des Mathématiciens Algériens (MCMA’2021)"](https://www.univ-msila.dz/en/?p=2337), Algerian Mathematical Society, October 2021.
 |- Member of the scientific committee of the National Conference ["Modélisation Mathématique en Biologie (MMB'2022)"](http://virtuelcampus.univ-msila.dz/facscience/?p=5949), Algerian Mathematical Society, Msila, Mars 2022.

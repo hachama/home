@@ -11,6 +11,12 @@ permalink: /publi/
 |----|
 |A. Diaf, M. Hachama, M. M'hamed Ezzine, ["Thermodynamic properties for some diatomic molecules with the q-deformed hyperbolic barrier potential"](https://www.tandfonline.com/doi/full/10.1080/00268976.2023.2198045), Molecular Physics, 2023.
 
+|2023-Conference papers| 
+|----|
+| F. Boutaous, M. Hachama, Study of a new fractional model for image processing, ["ICMA'23"](https://icma23.sciencesconf.org), Blida 1 University, 26-27 September, 2023.
+| A. Lamamr, M. Hachama, Performance of approximate solution methods for the shortest path problem with resource constraints in column generation, ["ICMA'23"](https://icma23.sciencesconf.org), Blida 1 University, 26-27 September, 2023.
+
+
 |2022-Journal papers| 
 |----|
 |A. Lamamri, M. Hachama, ["Approximate solution of the shortest path problem with resource constraints and applications to vehicle routing problems"](https://www.aimspress.com/article/doi/10.3934/era.2023030), Electronic Research Archive, 2023, 31(2): 615-632.

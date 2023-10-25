@@ -8,7 +8,9 @@ layout: home
 <!-- # Mohammed Hachama -->
 
 Professor,\\
-[National Higher School of Mathematics](http://www.nhsm.edu.dz), Algeria
+[National Higher School of Mathematics](http://www.nhsm.edu.dz), Algeria \\
+Office: C2-07.
+
 
 [Laboratory of Pure and Applied Mathematics](http://virtuelcampus.univ-msila.dz/lmpa2/)
 

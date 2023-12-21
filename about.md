@@ -7,6 +7,11 @@ permalink: /publi/
 
 ### Conference and Journal Papers in Chronological Order
 
+|2024-Journal papers| 
+|----|
+|M. Hachama, F. Boutaous, ["A fractional osmosis model for image fusion"](https://www.springer.com/journal/10444), Advances in Computational Mathematics, 2024.
+
+
 |2023-Journal papers| 
 |----|
 |A. Diaf, M. Hachama, M. M'hamed Ezzine, ["Thermodynamic properties for some diatomic molecules with the q-deformed hyperbolic barrier potential"](https://www.tandfonline.com/doi/full/10.1080/00268976.2023.2198045), Molecular Physics, 2023.

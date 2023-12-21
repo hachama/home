@@ -112,13 +112,13 @@ permalink: /publi/
 | A. Diaf and M. Hachama, ["Feynman integral treatment of the Rosen-Morse Potential with a centrifugal term approximation"](https://doi.org/10.1139/cjp-2013-0122), Canadian Journal of Physics, 2013, 91(12): 1081-1085. 
 | E. Ailam, M. Hachama, M.N. Benallal, Y. Mehabil, J. Leveque and A. Rezzoug, ["Study of an axial superconducting motor using the Monte Carlo Method"](https://doi.org/10.1109/TASC.2013.2249853), IEEE Transactions on Applied Superconductivity, Vol. 23, Issue 3, 2013.
 | E. Ailam, M.N. Benallal, M. Hachama, J. Leveque and A. Rezzoug, ["Comparison study between several solutions of superconducting inductors"](https://doi.org/10.1109/TASC.2012.2232913), IEEE Transactions on Applied Superconductivity, Volume 23, Issue 1, 2013. 
-| M. Hachama, "Solving the image registration problem: a comparative study", ATIM 2013, The Algerian-Turkish International Days On Mathematics, İstanbul, Turkey, 2013.
 
 |2013-Conference papers| 
 |----|
 | M. Hachama, "A Spectral Approach to Non-Rigid Image Registration", International Conference on Mathematical Modeling in Physical Sciences, Prague, Czech Republic, September 1-5, 2013.
 | A. Diaf and M. Hachama, "Arbitrary l-state solutions of the Feynman propagator for the Rosen-Morse Potential with a centrifugal term approximation", International Conference on Mathematical Modeling in Physical Sciences, Prague, Czech Republic, September 1-5, 2013.
 | L. Benaicha Matti, M. Hachama, "Recalage non rigide des images : Représentation des transformations", Sixième colloque sur les Tendances dans les Applications Mathémtiques en Tunisie, Algérie, Maroc (TAMTAM XIII), Alger, Avril 2013.
+| M. Hachama, "Solving the image registration problem: a comparative study", ATIM 2013, The Algerian-Turkish International Days On Mathematics, İstanbul, Turkey, 2013.
 
 
 |2012-Journal papers| 

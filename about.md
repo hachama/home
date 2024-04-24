@@ -15,6 +15,8 @@ permalink: /publi/
 <!--- A. Diaf and M. Hachama, ["Relativistic energies for the q-deformed Scarf potential with Feynman path integrals formulation"](https://iopscience.iop.org/journal/1402-4896), Physica Scripta, (2024). To appear. 	 -->
 <!--- I. Zid, A. Diaf and M. Hachama, ["Bound states solutions for the generalized Pöschl-Teller potential with path integrals formalism"](https://link.springer.com/journal/601), Few-Body Systems, (2024). To appear. 	 -->
 <!--- M. M’hamed Ezzine, A. Diaf, and M. Hachama, ["Ro"](https:/), T Journal Plus, (2024). To appear. 	 -->
+
+
 <!--- M. Ziane, O. Zentar and M. Hachama, ["Compactness of the set of solutions of a ψ-Hilfer proportional fractional coupled system in Banach spaces"]([https](https://www.math.ubbcluj.ro/~nodeacj), Fixed Point Theory Journal, (2024). To appear. 	 -->
 
 

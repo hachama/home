@@ -10,9 +10,8 @@ permalink: /publi/
 |2024-Journal papers| 
 |----|
 |M. Hachama, F. Boutaous, ["A fractional osmosis model for image fusion"](https://link.springer.com/article/10.1007/s10444-023-10103-6), Advances in Computational Mathematics, Volume 50, article number 7, (2024).
-//|M. Hachama, F. Boutaous, ["A fractional osmosis model for image fusion"](https://link.springer.com/article/10.1007/s10444-023-10103-6), Advances in Computational Mathematics, Volume 50, article number 7, (2024).
-q
-
+# (This is a comment)
+xx
 
 |2023-Journal papers| 
 |----|

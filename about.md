@@ -10,7 +10,7 @@ permalink: /publi/
 |2024-Journal papers| 
 |----|
 |M. Hachama and F. Boutaous, ["A fractional osmosis model for image fusion"](https://link.springer.com/article/10.1007/s10444-023-10103-6), Advances in Computational Mathematics, Volume 50, article number 7, (2024).
-|M. Hachama and A. Diaf, ["Ro-vibrationnal relativistic states for the q-deformed hyperbolic barrier potential"](https://link.springer.com/article/10.1140/epjp/s13360-024-05284-y), The European Physical Journal Plus, (2024). To appear.
+|M. Hachama and A. Diaf, ["Ro-vibrationnal relativistic states for the q-deformed hyperbolic barrier potential"](https://link.springer.com/article/10.1140/epjp/s13360-024-05284-y), The European Physical Journal Plus, Volume 139, article number 501, (2024).
 |A. Diaf and M. Hachama, ["Relativistic energies for the q-deformed Scarf potential with Feynman path integrals formulation"](https://iopscience.iop.org/article/10.1088/1402-4896/ad514d), Physica Scripta, Volume 99, Number 7, (2024). 
 
 <!--- I. Zid, A. Diaf and M. Hachama, ["Bound states solutions for the generalized Pöschl-Teller potential with path integrals formalism"](https://link.springer.com/journal/601), Few-Body Systems, (2024). To appear. 	 -->

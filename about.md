@@ -13,6 +13,7 @@ permalink: /publi/
 |M. Hachama and A. Diaf, ["Ro-vibrationnal relativistic states for the q-deformed hyperbolic barrier potential"](https://link.springer.com/article/10.1140/epjp/s13360-024-05284-y), The European Physical Journal Plus, Volume 139, article number 501, (2024).
 |A. Diaf and M. Hachama, ["Relativistic energies for the q-deformed Scarf potential with Feynman path integrals formulation"](https://iopscience.iop.org/article/10.1088/1402-4896/ad514d), Physica Scripta, Volume 99, Number 7, (2024). 
 
+
 <!--- I. Zid, A. Diaf and M. Hachama, ["Bound states solutions for the generalized Pöschl-Teller potential with path integrals formalism"](https://link.springer.com/journal/601), Few-Body Systems, (2024). To appear. 	 -->
 <!--- M. M’hamed Ezzine, A. Diaf, and M. Hachama, ["Ro"](https:/), T Journal Plus, (2024). To appear. 	 -->
 
@@ -23,6 +24,8 @@ permalink: /publi/
 | S. Benalia, M. Hachama, Image Fusion Using a Nonlocal Poisson Model, ["The Sixth International Colloquium on Methods and Tools for Decision Support"](https://moad2024.sciencesconf.org), Mouloud Mammeri University of Tizi-Ouzou, Algeria, October 20th-22nd 2024.
 | M. Hachama, Nonlocal Approaches in Image Processing, ["The 4th International Workshop on Mathematical Modeling and Renewable Energies"](https://mmre2024.sciencesconf.org), Annaba, 4-6 Nov 2024.
 | M. Hachama, Medical image processing: An overview, ["3rd National Conference On ”Mathematics, Biology and Medicine"](https://www.univ-msila.dz/site/the-third-national-conference-on-matematicsbiology-and-medicine-msila-algeria/), December 17, 2024, M’sila.
+| M. Hachama, Computer Vision in Sports
+Congres International de la Medecine et des Sciences du Sport, November 8, 2024, Tunis.
 
 |2023-Journal papers| 
 |----|

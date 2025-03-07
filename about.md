@@ -24,8 +24,7 @@ permalink: /publi/
 | S. Benalia, M. Hachama, Image Fusion Using a Nonlocal Poisson Model, ["The Sixth International Colloquium on Methods and Tools for Decision Support"](https://moad2024.sciencesconf.org), Mouloud Mammeri University of Tizi-Ouzou, Algeria, October 20th-22nd 2024.
 | M. Hachama, Nonlocal Approaches in Image Processing, ["The 4th International Workshop on Mathematical Modeling and Renewable Energies"](https://mmre2024.sciencesconf.org), Annaba, 4-6 Nov 2024.
 | M. Hachama, Medical image processing: An overview, ["3rd National Conference On ”Mathematics, Biology and Medicine"](https://www.univ-msila.dz/site/the-third-national-conference-on-matematicsbiology-and-medicine-msila-algeria/), December 17, 2024, M’sila.
-| M. Hachama, Computer Vision in Sports
-Congres International de la Medecine et des Sciences du Sport, November 8, 2024, Tunis.
+| M. Hachama, Computer Vision in Sports, Congres International de la Medecine et des Sciences du Sport, November 8, 2024, Tunis.
 
 |2023-Journal papers| 
 |----|

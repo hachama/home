@@ -19,12 +19,16 @@ permalink: /publi/
 
 <!--- M. Ziane, O. Zentar and M. Hachama, ["Compactness of the set of solutions of a ψ-Hilfer proportional fractional coupled system in Banach spaces"]([https](https://www.math.ubbcluj.ro/~nodeacj), Fixed Point Theory Journal, (2024). To appear. 	 -->
 
-|2024-Conference papers| 
+|2024-Conference papers and talks| 
 |----|
 | S. Benalia, M. Hachama, Image Fusion Using a Nonlocal Poisson Model, ["The Sixth International Colloquium on Methods and Tools for Decision Support"](https://moad2024.sciencesconf.org), Mouloud Mammeri University of Tizi-Ouzou, Algeria, October 20th-22nd 2024.
 | M. Hachama, Nonlocal Approaches in Image Processing, ["The 4th International Workshop on Mathematical Modeling and Renewable Energies"](https://mmre2024.sciencesconf.org), Annaba, 4-6 Nov 2024.
 | M. Hachama, Medical image processing: An overview, ["3rd National Conference On ”Mathematics, Biology and Medicine"](https://www.univ-msila.dz/site/the-third-national-conference-on-matematicsbiology-and-medicine-msila-algeria/), December 17, 2024, M’sila.
 | M. Hachama, Computer Vision in Sports, Congres International de la Medecine et des Sciences du Sport, November 8, 2024, Tunis.
+| M. Hachama, Mathematical models in image processing, National Conference On Computational Systems And Applications (NCCSA'2024), Khemis Miliana University, May 2024.
+
+
+
 
 |2023-Journal papers| 
 |----|

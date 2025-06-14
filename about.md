@@ -7,8 +7,6 @@ permalink: /publi/
 
 ### Conference and Journal Papers in Chronological Order
 
-|2024-Journal papers| 
-|----|
 <!--- I. Zid, A. Diaf and M. Hachama, ["Bound states solutions for the generalized Pöschl-Teller potential with path integrals formalism"](https://link.springer.com/journal/601), Few-Body Systems, (2024). To appear. 	 -->
 <!--- M. M’hamed Ezzine, A. Diaf, and M. Hachama, ["Ro"](https:/), T Journal Plus, (2024). To appear. 	 -->
 

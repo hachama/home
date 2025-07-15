@@ -12,6 +12,7 @@ permalink: /publi/
 
 <!--- M. Ziane, O. Zentar and M. Hachama, ["Compactness of the set of solutions of a ψ-Hilfer proportional fractional coupled system in Banach spaces"]([https](https://www.math.ubbcluj.ro/~nodeacj), Fixed Point Theory Journal, (2024). To appear. 	 -->
 
+
 |2025-Journal papers| 
 |----|
 |M. Hachama, S. Ben Alia and F. Boutaous, ["Nonlocal Approaches in Image Processing"](https://asjp.cerist.dz/en/PresentationRevue/34), Synthèse

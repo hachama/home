@@ -17,6 +17,8 @@ permalink: /publi/
 |----|
 |M. Hachama, S. Ben Alia and F. Boutaous, ["Nonlocal Approaches in Image Processing"](https://asjp.cerist.dz/en/PresentationRevue/34), Synthèse, Revue des Sciences et de la Technologie, To appear, (2025).
 
+|S. Ben Alia and M. Hachama,  ["A Nonlocal Osmosis Model For Enhanced Multi-image Fusion"]((https://link.springer.com/article/10.1007/), Advances in Computational Mathematics, To appear, (2025).
+
 |2025-Conference papers and talks| 
 |----|
 | Sabira Ben Alia and Mohammed Hachama, "A Partial differential equation for image shadow removal", ["1st National Conference on Applied Mathematics and Artificial Intelligence: Fundamentals and Modern Applications"](https://sites.google.com/enset-skikda.dz/ncamai2025);  ENSET - Skikda, May 04-05, 2025.

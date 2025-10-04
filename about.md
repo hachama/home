@@ -22,7 +22,8 @@ permalink: /publi/
 
 |2025-Conference papers and talks| 
 |----|
-| Sabira Ben Alia and Mohammed Hachama, "A Partial differential equation for image shadow removal", ["1st National Conference on Applied Mathematics and Artificial Intelligence: Fundamentals and Modern Applications"](https://sites.google.com/enset-skikda.dz/ncamai2025);  ENSET - Skikda, May 04-05, 2025.
+| Sabira Ben Alia and Mohammed Hachama, "A Partial differential equation for image shadow removal", ["INTERNATIONALCONFERENCE ON MATHEMATICS
+AND COMPUTERS WITH APPLICATIONS"](https://icomath.com), 16-18 July 2025,Istanbul, Türkiye.
 | Sabira Ben Alia and Mohammed Hachama, "Image fusion using a new evolution equation", ["The 2nd edition of National Conference on Applications of Artificial Intelligence"](https://aai.univ-boumerdes.dz/), University of Boumerdes, April 16-17, 2025 
 | M. Hachama, "Mathematics in the Age of Artificial Intelligence and the fourth Generation University", Study Day in Mathematics and its Applications (SDMA'2025), Khemis Miliana, March 10, 2025.
 

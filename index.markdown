@@ -15,7 +15,7 @@ Office: C2-07.
 
 Email : <hachamam@gmail.com>
 
-Vicd president of the [Algerian Society of Industrial and Applied Mathematics](https://asiam.netlify.app/) (ASIAM)
+[Algerian Society of Industrial and Applied Mathematics](https://asiam.netlify.app/) (ASIAM)
 
 ### Professional pages
 

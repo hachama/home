@@ -17,11 +17,11 @@ permalink: /publi/
 |----|
 |M. Hachama, S. Ben Alia and F. Boutaous, ["Nonlocal Approaches in Image Processing"](https://asjp.cerist.dz/en/PresentationRevue/34), Synthèse, Revue des Sciences et de la Technologie, To appear, (2025).
 |S. Ben Alia and M. Hachama,  ["A Nonlocal Osmosis Model For Enhanced Multi-image Fusion"](https://link.springer.com/journal/10444), Advances in Computational Mathematics, To appear, (2025).
-|S. Ben Alia and M. Hachama, ["Image Fusion Using a Nonlocal Poisson Model"](https://link.springer.com/chapter/10.1007/978-981-96-9808-0_22), in Emerging Trends in Decision Support: Methodology, Algorithms and Applications – Proceedings of the International Colloquium MOAD24, F. Bedouhene, H. Belbachir, and M. Larbani, Eds. Singapore: Springer, 2025.
 
 
 |2025-Conference papers and talks| 
 |----|
+|S. Ben Alia and M. Hachama, ["Image Fusion Using a Nonlocal Poisson Model"](https://link.springer.com/chapter/10.1007/978-981-96-9808-0_22), in Emerging Trends in Decision Support: Methodology, Algorithms and Applications – Proceedings of the International Colloquium MOAD24, F. Bedouhene, H. Belbachir, and M. Larbani, Eds. Singapore: Springer, 2025.
 | Sabira Ben Alia and Mohammed Hachama, "A Partial differential equation for image shadow removal", ["INTERNATIONALCONFERENCE ON MATHEMATICS AND COMPUTERS WITH APPLICATIONS"](https://icomath.com), 16-18 July 2025,Istanbul, Türkiye.
 | Sabira Ben Alia and Mohammed Hachama, "Image fusion using a new evolution equation", ["The 2nd edition of National Conference on Applications of Artificial Intelligence"](https://aai.univ-boumerdes.dz/), University of Boumerdes, April 16-17, 2025 
 | M. Hachama, "Mathematics in the Age of Artificial Intelligence and the fourth Generation University", Study Day in Mathematics and its Applications (SDMA'2025), Khemis Miliana, March 10, 2025.

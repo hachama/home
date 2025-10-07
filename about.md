@@ -17,7 +17,7 @@ permalink: /publi/
 |----|
 |M. Hachama, S. Ben Alia and F. Boutaous, ["Nonlocal Approaches in Image Processing"](https://asjp.cerist.dz/en/PresentationRevue/34), Synthèse, Revue des Sciences et de la Technologie, To appear, (2025).
 |S. Ben Alia and M. Hachama,  ["A Nonlocal Osmosis Model For Enhanced Multi-image Fusion"](https://link.springer.com/journal/10444), Advances in Computational Mathematics, To appear, (2025).
-|S. Ben Alia and M. Hachama, ["Image Fusion Using a Nonlocal Poisson Model"](https://link.springer.com/book/9789819698073), in Emerging Trends in Decision Support: Methodology, Algorithms and Applications – Proceedings of the International Colloquium MOAD24, F. Bedouhene, H. Belbachir, and M. Larbani, Eds. Singapore: Springer, 2025.
+|S. Ben Alia and M. Hachama, ["Image Fusion Using a Nonlocal Poisson Model"](https://link.springer.com/chapter/10.1007/978-981-96-9808-0_22), in Emerging Trends in Decision Support: Methodology, Algorithms and Applications – Proceedings of the International Colloquium MOAD24, F. Bedouhene, H. Belbachir, and M. Larbani, Eds. Singapore: Springer, 2025.
 
 
 |2025-Conference papers and talks| 

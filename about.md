@@ -25,8 +25,7 @@ permalink: /publi/
 | Sabira Ben Alia and Mohammed Hachama, "A Partial differential equation for image shadow removal", ["INTERNATIONALCONFERENCE ON MATHEMATICS AND COMPUTERS WITH APPLICATIONS"](https://icomath.com), 16-18 July 2025,Istanbul, Türkiye.
 | Sabira Ben Alia and Mohammed Hachama, "Image fusion using a new evolution equation", ["The 2nd edition of National Conference on Applications of Artificial Intelligence"](https://aai.univ-boumerdes.dz/), University of Boumerdes, April 16-17, 2025 
 | M. Hachama, "Mathematics in the Age of Artificial Intelligence and the fourth Generation University", Study Day in Mathematics and its Applications (SDMA'2025), Khemis Miliana, March 10, 2025.
-|M. M'hamed Ezzine, M. Hachama, A. Diaf,   ["Prediction	of	the	Molar	Entropy	of	Chlorine	and	Iodine	Molecules	Using	the Feynman	Method"](https://caps2025.sciencesconf.org),  third edition of the national conference “Computational and Applied Physics Symposium 2025”
-(CAPS2025), held on Wednesday October 15th 2025, at the University of Khemis Miliana (Algeria).
+|M. M'hamed Ezzine, M. Hachama, A. Diaf,   ["Prediction	of	the	Molar	Entropy	of	Chlorine	and	Iodine	Molecules	Using	the Feynman	Method"](https://caps2025.sciencesconf.org),  third edition of the national conference “Computational and Applied Physics Symposium 2025” (CAPS2025), held on Wednesday October 15th 2025, at the University of Khemis Miliana (Algeria).
  
 
 |2024-Journal papers| 

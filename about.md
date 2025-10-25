@@ -22,9 +22,9 @@ permalink: /publi/
 |2025-Conference papers and talks| 
 |----|
 |S. Ben Alia and M. Hachama, ["Image Fusion Using a Nonlocal Poisson Model"](https://link.springer.com/chapter/10.1007/978-981-96-9808-0_22), in Emerging Trends in Decision Support: Methodology, Algorithms and Applications – Proceedings of the International Colloquium MOAD24, F. Bedouhene, H. Belbachir, and M. Larbani, Eds. Singapore: Springer, 2025.
-| Sabira Ben Alia and Mohammed Hachama, "A Partial differential equation for image shadow removal", ["INTERNATIONALCONFERENCE ON MATHEMATICS AND COMPUTERS WITH APPLICATIONS"](https://icomath.com), 16-18 July 2025,Istanbul, Türkiye.
+| Sabira Ben Alia and Mohammed Hachama, "A Partial differential equation for image shadow removal", ["INTERNATIONAL CONFERENCE ON MATHEMATICS AND COMPUTERS WITH APPLICATIONS"](https://icomath.com), 16-18 July 2025,Istanbul, Türkiye.
 | Sabira Ben Alia and Mohammed Hachama, "Image fusion using a new evolution equation", ["The 2nd edition of National Conference on Applications of Artificial Intelligence"](https://aai.univ-boumerdes.dz/), University of Boumerdes, April 16-17, 2025 
-| M. Hachama, "Mathematics in the Age of Artificial Intelligence and the fourth Generation University", Study Day in Mathematics and its Applications (SDMA'2025), Khemis Miliana, March 10, 2025.
+| M. Hachama, ["Mathematics in the Age of Artificial Intelligence and the fourth Generation University"](https://speakerdeck.com/hachama/mathematics-in-the-age-of-ai-and-the-4-generation-university), Study Day in Mathematics and its Applications (SDMA'2025), Khemis Miliana, March 10, 2025.
 |M. M'hamed Ezzine, M. Hachama, A. Diaf,   ["Prediction	of	the	Molar	Entropy	of	Chlorine	and	Iodine	Molecules	Using	the Feynman	Method"](https://caps2025.sciencesconf.org), "Computational and Applied Physics Symposium 2025" (CAPS2025), University of Khemis Miliana, Algeria.
  
 

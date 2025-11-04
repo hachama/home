@@ -11,8 +11,6 @@ Professor,\\
 [National Higher School of Mathematics](http://www.nhsm.edu.dz), Algeria\\
 Office: C2-07.
 
-[Laboratory of Pure and Applied Mathematics](http://virtuelcampus.univ-msila.dz/lmpa2/)
-
 Email : <hachamam@gmail.com>
 
 [Algerian Society of Industrial and Applied Mathematics](https://asiam.netlify.app/) (ASIAM)

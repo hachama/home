@@ -8,7 +8,7 @@ layout: home
 <!-- # Mohammed Hachama -->
 
 Professor,\\
-[National Higher School of Mathematics](http://www.nhsm.edu.dz), Algeria\\
+[National Higher School of Mathematics](http://www.nhsm.dz), Algeria\\
 Office: C2-07.
 
 Email : <hachamam@gmail.com>

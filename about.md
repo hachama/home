@@ -26,16 +26,13 @@ permalink: /publi/
 | Sabira Ben Alia and Mohammed Hachama, "Image fusion using a new evolution equation", ["The 2nd edition of National Conference on Applications of Artificial Intelligence"](https://aai.univ-boumerdes.dz/), University of Boumerdes, April 16-17, 2025 
 | M. Hachama, ["Mathematics in the Age of Artificial Intelligence and the fourth Generation University"](https://speakerdeck.com/hachama/mathematics-in-the-age-of-ai-and-the-4-generation-university), Study Day in Mathematics and its Applications (SDMA'2025), Khemis Miliana, March 10, 2025.
 |M. M'hamed Ezzine, M. Hachama, A. Diaf,   ["Prediction	of	the	Molar	Entropy	of	Chlorine	and	Iodine	Molecules	Using	the Feynman	Method"](https://caps2025.sciencesconf.org), "Computational and Applied Physics Symposium 2025" (CAPS2025), University of Khemis Miliana, Algeria.
- 
+|M. M'hamed Ezzine, A. Diaf, M. Hachama,    ["Determination of the Molar Entropy and Gibbs free energy of the Lithium Dimer (𝐋𝐢𝟐) Using the Feynman Path Integrals Method"](https://conferences.umc.edu.dz/nctpa2025), "11th National Conference on Theoretical Physics and Applications" (NCTPA 2025),  Constantine 1 University, December 1st-3rd 2025, Algeria. 
 
 |2024-Journal papers| 
 |----|
 |M. Hachama and F. Boutaous, ["A fractional osmosis model for image fusion"](https://link.springer.com/article/10.1007/s10444-023-10103-6), Advances in Computational Mathematics, Volume 50, article number 7, (2024).
 |M. Hachama and A. Diaf, ["Ro-vibrationnal relativistic states for the q-deformed hyperbolic barrier potential"](https://link.springer.com/article/10.1140/epjp/s13360-024-05284-y), The European Physical Journal Plus, Volume 139, article number 501, (2024).
 |A. Diaf and M. Hachama, ["Relativistic energies for the q-deformed Scarf potential with Feynman path integrals formulation"](https://iopscience.iop.org/article/10.1088/1402-4896/ad514d), Physica Scripta, Volume 99, Number 7, (2024). 
-
-
-
 
 |2024-Conference papers and talks| 
 |----|

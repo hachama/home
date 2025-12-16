@@ -23,7 +23,10 @@ Email : <hachamam@gmail.com>
 * [Orcid](https://orcid.org/0000-0002-2441-5003)
 
 ## Event
-* [The Fifth International Congress on Operators Theory and Applied Mathematics CITOMA2025](https://citoma5.univ-eloued.dz), Nov 11-13, El-Oued, Algeria.
+
+* [Mathematics in Colors](https://mathsincolors.github.io/seminar/), Online seminar series.
+
+<!-- * [The Fifth International Congress on Operators Theory and Applied Mathematics CITOMA2025](https://citoma5.univ-eloued.dz), Nov 11-13, El-Oued, Algeria. -->
 
 <!-- * [Second International Conference on Mathematics and Applications (ICMA'2023)](https://icma23.sciencesconf.org/), 26-27 Sept 2023.-->
 <!-- * [International Conference on Mathematics and Applications (ICMA'2021)](https://icma21.sciencesconf.org/)-->

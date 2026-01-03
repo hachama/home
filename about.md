@@ -15,8 +15,8 @@ permalink: /publi/
 
 |2025-Journal papers| 
 |----|
-|M. Hachama, S. Ben Alia and F. Boutaous, ["Nonlocal Approaches in Image Processing"](https://asjp.cerist.dz/en/PresentationRevue/34), Synthèse, Revue des Sciences et de la Technologie, To appear, (2025).
-|S. Ben Alia and M. Hachama,  ["A Nonlocal Osmosis Model For Enhanced Multi-image Fusion"](https://doi.org/10.1007/s10444-025-10259-3), Advances in Computational Mathematics, Volume 51, article number 50, (2025).
+|M. Hachama, S. Ben Alia and F. Boutaous, ["Nonlocal Approaches in Image Processing"](https://asjp.cerist.dz/en/PresentationRevue/34), Synthèse, Revue des Sciences et de la Technologie, N. 34, pages  45-51, 2025.
+|S. Ben Alia and M. Hachama,  ["A Nonlocal Osmosis Model For Enhanced Multi-image Fusion"](https://doi.org/10.1007/s10444-025-10259-3), Advances in Computational Mathematics, Volume 51, article number 50, 2025.
 
 
 |2025-Conference papers and talks| 
